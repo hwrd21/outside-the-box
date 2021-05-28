@@ -10,6 +10,6 @@ Use the arrow keys to move left and right and jump with the spacebar.
 
 ## Screenshots
 
-![Title Screen](https://github.com/hwrd21/outside-the-box/blob/231288946803563b7d886f07f876a39337c53285/start.PNG)
+![Title Screen](https://raw.githubusercontent.com/hwrd21/outside-the-box/231288946803563b7d886f07f876a39337c53285/start.PNG)
 
-![Gameplay](https://github.com/hwrd21/outside-the-box/blob/231288946803563b7d886f07f876a39337c53285/gameplay.PNG)
+![Gameplay](https://raw.githubusercontent.com/hwrd21/outside-the-box/231288946803563b7d886f07f876a39337c53285/gameplay.PNG)
